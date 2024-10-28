@@ -1,0 +1,122 @@
+/* 
+  Localizable.strings
+  Activity
+
+  Created by Yu-Ting Huang on 2024/1/27.
+  
+*/
+
+
+// Home
+"Home" = "Home";
+"Welcome" = "Welcome";
+"WelcomeWithName" = "Welcome, %@";
+"Hint" = "Hint";
+"Consider going to the Settings tab to customize the application, set your name or enable notifications" = "Consider going to the Settings tab to customize the application, set your name or enable notifications";
+"Today" = "Today";
+
+
+// Project
+"Projects" = "Projects";
+"Start typing to search" = "Start typing to search";
+"Name" = "Name";
+"Date" = "Date";
+"Tags: " = "Tags: ";
+"Add tag" = "Add tag";
+"Choose Tags" = "Choose Tags";
+"Project Name" = "Project Name";
+"New Project" = "New Project";
+"Choose Project" = "Choose Project";
+"Cancel" = "Cancel";
+"Save" = "Save";
+"Move" = "Move";
+"Edit" = "Edit";
+"A project with the same name already exists" = "A project with the same name already exists";
+"Task" = "Task";
+"New Task" = "New Task";
+"Edit Task" = "Edit Task";
+"Task Name" = "Task Name";
+"Start Date" = "Start Date";
+"Repeat" = "Repeat";
+"Never" = "Never";
+"Every Weekday" = "Every Weekday";
+"Every Weekend Day" = "Every Weekend Day";
+"Every Day" = "Every Day";
+"Priority" = "Priority";
+"Meh" = "Meh";
+"Maybe" = "Maybe";
+"Must" = "Must";
+"Time" = "Time";
+"EveryDayFormat" = "Every %@";
+"There are no projects." = "There are no projects.";
+"Add new project" = "Add new project";
+"There are no tasks." = "There are no tasks.";
+"Add new task" = "Add new task";
+
+// Calendar
+"Calendar" = "Calendar";
+"Type to search..." = "Type to search...";
+"Nothing match !!" = "Nothing match !!";
+"No tasks for this day" = "No tasks for this day";
+"Do you want to restart or continue the tracking?" = "Do you want to restart or continue the tracking?";
+"Discard data and restart" = "Discard data and restart";
+"Continue tracking" = "Continue tracking";
+"Time: %@" = "Time: %@";
+"Filter" = "Filter";
+"No tag exists" = "No tag exists";
+"Choose tag" = "Choose tag";
+
+// Stopwatch
+"Pause" = "Pause";
+"Start" = "Start";
+"Finish" = "Finish";
+"Did you complete the workout already?" = "Did you complete the task already?";
+"Start Time" = "Start Time";
+"End Time" = "End Time";
+"Add manually" = "Add manually";
+
+// Summary
+"Summary" = "Summary";
+"Training Summary 🏋️" = "Training Summary 🏋️";
+"Unknown" = "Unknown";
+"Day to view" = "Day to view";
+"Month to view" = "Month to view";
+"Select Timeframe" = "Select Timeframe";
+"Daily" = "Daily";
+"Monthly" = "Monthly";
+"All Time" = "All Time";
+"Week to view" = "Week to view";
+
+// Setting
+"Settings" = "Settings";
+"Personal Information" = "Personal Information";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Email" = "Email";
+"Birthday" = "Birthday";
+"Visual Settings" = "Visual Settings";
+"Yellow" = "Yellow";
+"Blue" = "Blue";
+"Purple" = "Purple";
+"Green" = "Green";
+"Notification Settings" = "Notification Settings";
+"Notification Permission Unknown" = "Notification Permission Unknown";
+"Font Size" = "Font Size";
+"Daily Reminder" = "Daily Reminder";
+"Notification Time" = "Notification Time";
+"Notification Permission Denied" = "Notification Permission Denied";
+"FontSizeFormat" = "Font size: %d";
+"Accent Color" = "Accent Color";
+"Enable Reminders" ="Enable Reminders";
+"Enable in Settings" = "Enable in Settings";
+
+// Day of Week
+"Monday" = "Monday";
+"Tuesday" = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday" = "Thursday";
+"Friday" = "Friday";
+"Saturday" = "Saturday";
+"Sunday" = "Saturday";
+"EveryDayFormat" = "Every %@";
+

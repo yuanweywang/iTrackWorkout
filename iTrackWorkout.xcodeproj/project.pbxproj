@@ -1,0 +1,475 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1626F2672B613BE3008D4713 /* ExerciseCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1626F2662B613BE3008D4713 /* ExerciseCell.swift */; };
+		1626F2692B613C19008D4713 /* NewExerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1626F2682B613C19008D4713 /* NewExerciseView.swift */; };
+		1626F26B2B613C3C008D4713 /* ProjectContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1626F26A2B613C3C008D4713 /* ProjectContentView.swift */; };
+		1626F26D2B613C78008D4713 /* ProjectTaskDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1626F26C2B613C78008D4713 /* ProjectTaskDetailView.swift */; };
+		1626F26F2B613CC5008D4713 /* EditTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1626F26E2B613CC5008D4713 /* EditTaskView.swift */; };
+		1626F2712B613CFD008D4713 /* TagChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1626F2702B613CFD008D4713 /* TagChoice.swift */; };
+		1626F2732B613D3D008D4713 /* NewTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1626F2722B613D3D008D4713 /* NewTaskView.swift */; };
+		1691B1CF2B6544F100783B03 /* EditTaskDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1691B1CE2B6544F100783B03 /* EditTaskDetailView.swift */; };
+		5600F2252B5E92C800EBFF22 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5600F2242B5E92C800EBFF22 /* Settings.swift */; };
+		56247C7A2B641BC400D16D8E /* ProjectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56247C792B641BC400D16D8E /* ProjectsView.swift */; };
+		56247C7C2B641BD100D16D8E /* RepeatDaysChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56247C7B2B641BD100D16D8E /* RepeatDaysChoice.swift */; };
+		5660A4A22B5C6F3B005B8BCE /* Project.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5660A4A12B5C6F3B005B8BCE /* Project.swift */; };
+		56A3D9802B55B21B00135F90 /* Stopwatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56A3D97F2B55B21B00135F90 /* Stopwatch.swift */; };
+		56EDD9DB2B5EF5E30030555D /* StopwatchData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EDD9DA2B5EF5E30030555D /* StopwatchData.swift */; };
+		6FCD2D232B65BCBE0097F091 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6FCD2D252B65BCBE0097F091 /* Localizable.strings */; };
+		B0A724E62B65319E0038D4FB /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C883FED02B4E98CA006B716A /* CalendarView.swift */; };
+		B0BC28F42B5562A30087B309 /* TaskDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0BC28F32B5562A30087B309 /* TaskDetailView.swift */; };
+		C8CE74A72B611F9300B23670 /* DayOfWeek.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8CE74A62B611F9300B23670 /* DayOfWeek.swift */; };
+		C8D03AAB2B38654500C9B57D /* ActivityApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D03AAA2B38654500C9B57D /* ActivityApp.swift */; };
+		C8D03AAD2B38654500C9B57D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D03AAC2B38654500C9B57D /* ContentView.swift */; };
+		C8D03AAF2B38654700C9B57D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8D03AAE2B38654700C9B57D /* Assets.xcassets */; };
+		C8D03AB22B38654700C9B57D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8D03AB12B38654700C9B57D /* Preview Assets.xcassets */; };
+		C8D200662B3892C400E06148 /* ActivityListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D200652B3892C400E06148 /* ActivityListView.swift */; };
+		C8D200682B38930200E06148 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D200672B38930200E06148 /* HomeView.swift */; };
+		C8D2006C2B3896E200E06148 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D2006B2B3896E200E06148 /* SettingsView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1626F2662B613BE3008D4713 /* ExerciseCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseCell.swift; sourceTree = "<group>"; };
+		1626F2682B613C19008D4713 /* NewExerciseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewExerciseView.swift; sourceTree = "<group>"; };
+		1626F26A2B613C3C008D4713 /* ProjectContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectContentView.swift; sourceTree = "<group>"; };
+		1626F26C2B613C78008D4713 /* ProjectTaskDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectTaskDetailView.swift; sourceTree = "<group>"; };
+		1626F26E2B613CC5008D4713 /* EditTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditTaskView.swift; sourceTree = "<group>"; };
+		1626F2702B613CFD008D4713 /* TagChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagChoice.swift; sourceTree = "<group>"; };
+		1626F2722B613D3D008D4713 /* NewTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTaskView.swift; sourceTree = "<group>"; };
+		1691B1CE2B6544F100783B03 /* EditTaskDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditTaskDetailView.swift; sourceTree = "<group>"; };
+		5600F2242B5E92C800EBFF22 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		56247C792B641BC400D16D8E /* ProjectsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProjectsView.swift; sourceTree = "<group>"; };
+		56247C7B2B641BD100D16D8E /* RepeatDaysChoice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RepeatDaysChoice.swift; sourceTree = "<group>"; };
+		5660A4A12B5C6F3B005B8BCE /* Project.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project.swift; sourceTree = "<group>"; };
+		569BC3E72B67B05700A96030 /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/Localizable.strings; sourceTree = "<group>"; };
+		569BC3E82B67B41A00A96030 /* ka */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ka; path = ka.lproj/Localizable.strings; sourceTree = "<group>"; };
+		56A3D97F2B55B21B00135F90 /* Stopwatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stopwatch.swift; sourceTree = "<group>"; };
+		56EDD9DA2B5EF5E30030555D /* StopwatchData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopwatchData.swift; sourceTree = "<group>"; };
+		6FCD2D242B65BCBE0097F091 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		6FCD2D262B65BCCB0097F091 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B0BC28F32B5562A30087B309 /* TaskDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskDetailView.swift; sourceTree = "<group>"; };
+		C883FED02B4E98CA006B716A /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
+		C8CE74A62B611F9300B23670 /* DayOfWeek.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayOfWeek.swift; sourceTree = "<group>"; };
+		C8D03AA72B38654500C9B57D /* iTrackWorkout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iTrackWorkout.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8D03AAA2B38654500C9B57D /* ActivityApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityApp.swift; sourceTree = "<group>"; };
+		C8D03AAC2B38654500C9B57D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C8D03AAE2B38654700C9B57D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C8D03AB12B38654700C9B57D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C8D200652B3892C400E06148 /* ActivityListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityListView.swift; sourceTree = "<group>"; };
+		C8D200672B38930200E06148 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		C8D2006B2B3896E200E06148 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C8D03AA42B38654500C9B57D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1626F2652B613B11008D4713 /* ProjectsView */ = {
+			isa = PBXGroup;
+			children = (
+				56247C792B641BC400D16D8E /* ProjectsView.swift */,
+				1626F2662B613BE3008D4713 /* ExerciseCell.swift */,
+				1626F2682B613C19008D4713 /* NewExerciseView.swift */,
+				1626F2722B613D3D008D4713 /* NewTaskView.swift */,
+				1626F26A2B613C3C008D4713 /* ProjectContentView.swift */,
+				1626F26C2B613C78008D4713 /* ProjectTaskDetailView.swift */,
+				1626F26E2B613CC5008D4713 /* EditTaskView.swift */,
+				1626F2702B613CFD008D4713 /* TagChoice.swift */,
+				56247C7B2B641BD100D16D8E /* RepeatDaysChoice.swift */,
+				1691B1CE2B6544F100783B03 /* EditTaskDetailView.swift */,
+			);
+			path = ProjectsView;
+			sourceTree = "<group>";
+		};
+		5600F2232B5E92BB00EBFF22 /* Database */ = {
+			isa = PBXGroup;
+			children = (
+				5660A4A12B5C6F3B005B8BCE /* Project.swift */,
+				5600F2242B5E92C800EBFF22 /* Settings.swift */,
+				56EDD9DA2B5EF5E30030555D /* StopwatchData.swift */,
+				C8CE74A62B611F9300B23670 /* DayOfWeek.swift */,
+			);
+			path = Database;
+			sourceTree = "<group>";
+		};
+		C8D03A9E2B38654500C9B57D = {
+			isa = PBXGroup;
+			children = (
+				C8D03AA92B38654500C9B57D /* Activity */,
+				C8D03AA82B38654500C9B57D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C8D03AA82B38654500C9B57D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C8D03AA72B38654500C9B57D /* iTrackWorkout.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C8D03AA92B38654500C9B57D /* Activity */ = {
+			isa = PBXGroup;
+			children = (
+				C8D03AAA2B38654500C9B57D /* ActivityApp.swift */,
+				C8D03AAC2B38654500C9B57D /* ContentView.swift */,
+				C8D200672B38930200E06148 /* HomeView.swift */,
+				1626F2652B613B11008D4713 /* ProjectsView */,
+				C883FED02B4E98CA006B716A /* CalendarView.swift */,
+				B0BC28F32B5562A30087B309 /* TaskDetailView.swift */,
+				56A3D97F2B55B21B00135F90 /* Stopwatch.swift */,
+				C8D200652B3892C400E06148 /* ActivityListView.swift */,
+				C8D2006B2B3896E200E06148 /* SettingsView.swift */,
+				5600F2232B5E92BB00EBFF22 /* Database */,
+				C8D03AAE2B38654700C9B57D /* Assets.xcassets */,
+				C8D03AB02B38654700C9B57D /* Preview Content */,
+				6FCD2D252B65BCBE0097F091 /* Localizable.strings */,
+			);
+			path = Activity;
+			sourceTree = "<group>";
+		};
+		C8D03AB02B38654700C9B57D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				C8D03AB12B38654700C9B57D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C8D03AA62B38654500C9B57D /* iTrackWorkout */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C8D03AB52B38654700C9B57D /* Build configuration list for PBXNativeTarget "iTrackWorkout" */;
+			buildPhases = (
+				C8D03AA32B38654500C9B57D /* Sources */,
+				C8D03AA42B38654500C9B57D /* Frameworks */,
+				C8D03AA52B38654500C9B57D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iTrackWorkout;
+			productName = Activity;
+			productReference = C8D03AA72B38654500C9B57D /* iTrackWorkout.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C8D03A9F2B38654500C9B57D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					C8D03AA62B38654500C9B57D = {
+						CreatedOnToolsVersion = 15.0.1;
+					};
+				};
+			};
+			buildConfigurationList = C8D03AA22B38654500C9B57D /* Build configuration list for PBXProject "iTrackWorkout" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				"zh-Hant",
+				Base,
+				ro,
+				ka,
+			);
+			mainGroup = C8D03A9E2B38654500C9B57D;
+			productRefGroup = C8D03AA82B38654500C9B57D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C8D03AA62B38654500C9B57D /* iTrackWorkout */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C8D03AA52B38654500C9B57D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C8D03AB22B38654700C9B57D /* Preview Assets.xcassets in Resources */,
+				6FCD2D232B65BCBE0097F091 /* Localizable.strings in Resources */,
+				C8D03AAF2B38654700C9B57D /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C8D03AA32B38654500C9B57D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B0BC28F42B5562A30087B309 /* TaskDetailView.swift in Sources */,
+				1626F2732B613D3D008D4713 /* NewTaskView.swift in Sources */,
+				56EDD9DB2B5EF5E30030555D /* StopwatchData.swift in Sources */,
+				C8D2006C2B3896E200E06148 /* SettingsView.swift in Sources */,
+				1626F26F2B613CC5008D4713 /* EditTaskView.swift in Sources */,
+				1626F2672B613BE3008D4713 /* ExerciseCell.swift in Sources */,
+				1691B1CF2B6544F100783B03 /* EditTaskDetailView.swift in Sources */,
+				1626F26B2B613C3C008D4713 /* ProjectContentView.swift in Sources */,
+				C8D03AAD2B38654500C9B57D /* ContentView.swift in Sources */,
+				B0A724E62B65319E0038D4FB /* CalendarView.swift in Sources */,
+				C8D200682B38930200E06148 /* HomeView.swift in Sources */,
+				56247C7A2B641BC400D16D8E /* ProjectsView.swift in Sources */,
+				5660A4A22B5C6F3B005B8BCE /* Project.swift in Sources */,
+				56247C7C2B641BD100D16D8E /* RepeatDaysChoice.swift in Sources */,
+				1626F2712B613CFD008D4713 /* TagChoice.swift in Sources */,
+				1626F2692B613C19008D4713 /* NewExerciseView.swift in Sources */,
+				C8CE74A72B611F9300B23670 /* DayOfWeek.swift in Sources */,
+				C8D03AAB2B38654500C9B57D /* ActivityApp.swift in Sources */,
+				C8D200662B3892C400E06148 /* ActivityListView.swift in Sources */,
+				5600F2252B5E92C800EBFF22 /* Settings.swift in Sources */,
+				1626F26D2B613C78008D4713 /* ProjectTaskDetailView.swift in Sources */,
+				56A3D9802B55B21B00135F90 /* Stopwatch.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6FCD2D252B65BCBE0097F091 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6FCD2D242B65BCBE0097F091 /* zh-Hant */,
+				6FCD2D262B65BCCB0097F091 /* en */,
+				569BC3E72B67B05700A96030 /* ro */,
+				569BC3E82B67B41A00A96030 /* ka */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C8D03AB32B38654700C9B57D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				NEW_SETTING = "";
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C8D03AB42B38654700C9B57D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				NEW_SETTING = "";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C8D03AB62B38654700C9B57D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Activity/Preview Content\"";
+				DEVELOPMENT_TEAM = MJJL7LL2Y3;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iTrackWorkout-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.iTracker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C8D03AB72B38654700C9B57D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Activity/Preview Content\"";
+				DEVELOPMENT_TEAM = MJJL7LL2Y3;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iTrackWorkout-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.iTracker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C8D03AA22B38654500C9B57D /* Build configuration list for PBXProject "iTrackWorkout" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C8D03AB32B38654700C9B57D /* Debug */,
+				C8D03AB42B38654700C9B57D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C8D03AB52B38654700C9B57D /* Build configuration list for PBXNativeTarget "iTrackWorkout" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C8D03AB62B38654700C9B57D /* Debug */,
+				C8D03AB72B38654700C9B57D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C8D03A9F2B38654500C9B57D /* Project object */;
+}

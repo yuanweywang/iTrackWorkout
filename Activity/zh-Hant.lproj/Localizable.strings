@@ -1,0 +1,121 @@
+/*
+  Localizable.strings
+  Activity
+
+  Created by Yu-Ting Huang on 2024/1/27.
+  
+*/
+
+
+// Home
+"Home" = "首頁";
+"Welcome" = "您好";
+"WelcomeWithName" = "您好, %@";
+"Hint" = "小提示";
+"Consider going to the Settings tab to customize the application, set your name or enable notifications" = "請到“設定”介面自訂您的姓名或啟用通知";
+"Today" = "今天";
+
+// Project
+"Projects" = "主題";
+"Start typing to search" = "開始輸入搜尋內容";
+"Name" = "名字";
+"Date" = "日期";
+"Tags: " = "標籤: ";
+"Add tag" = "新增標籤";
+"Choose Tags" = "選擇標籤";
+"Project Name" = "主題名稱";
+"New Project" = "新主題";
+"Choose Project" = "選擇主題";
+"Cancel" = "取消";
+"Save" = "儲存";
+"Move" = "移動";
+"Edit" = "編輯";
+"A project with the same name already exists" = "已存在同名主題";
+"Task" = "任務";
+"New Task" = "新任務";
+"Edit Task" = "編輯任務";
+"Task Name" = "任務名稱";
+"Start Date" = "開始日期";
+"Repeat" = "重複";
+"Never" = "重不";
+"Every Weekday" = "每個工作日";
+"Every Weekend Day" = "每個假日";
+"Every Day" = "每天";
+"Priority" = "優先順序";
+"Meh" = "考慮";
+"Maybe" = "可能";
+"Must" = "必須";
+"Time" = "時間";
+"EveryDayFormat" = "每個%@";
+"There are no projects." = "沒有專題";
+"Add new project" = "新增專題";
+"There are no tasks." = "沒有任務";
+"Add new task" = "新增任務";
+
+// Calendar
+"Calendar" = "日曆";
+"Type to search..." = "輸入搜尋...";
+"Nothing match !!" = "沒有任何匹配！";
+"No tasks for this day" = "今天沒有任務";
+"Do you want to restart or continue the tracking?" = "您想重新開始還是繼續追蹤？";
+"Discard data and restart" = "放棄數據並重新啟動";
+"Continue tracking" = "繼續追蹤";
+"Time: %@" = "時間: %@";
+"Filter" = "篩選";
+"No tag exists" = "尚未建立標籤";
+"Choose tag" = "選擇標籤";
+
+// Stopwatch
+"Pause" = "暫停";
+"Start" = "開始";
+"Finish" = "完成";
+"Did you complete the workout already?" = "您已經完成這項運動了嗎？";
+"Start Time" = "開始時間";
+"End Time" = "[結束時間";
+"Add manually" = "手動新增";
+
+// Summary
+"Summary" = "總結";
+"Training Summary 🏋️" = "追蹤總結 🏋️";
+"Unknown" = "未知";
+"Day to view" = "每日回顧";
+"Month to view" = "每月回顧";
+"Select Timeframe" = "選擇時間";
+"Daily" = "每日";
+"Monthly" = "每月";
+"All Time" = "一直";
+"Week to view" = "Week to view";
+
+// Setting
+"Settings" = "設定";
+"Personal Information" = "個人訊息";
+"First Name" = "名";
+"Last Name" = "姓";
+"Email" = "信箱";
+"Birthday" = "生日";
+"Visual Settings" = "視覺設定";
+"Yellow" = "黃色";
+"Blue" = "藍色";
+"Purple" = "紫色";
+"Green" = "綠色";
+"Notification Settings" = "通知設定";
+"Notification Permission Unknown" = "通知權限未知";
+"Font Size" = "字體大小";
+"Daily Reminder" = "每日提醒";
+"Notification Time" = "通知時間";
+"Notification Permission Denied" = "通知權限被拒絕";
+"FontSizeFormat" = "字體大小: %d";
+"Accent Color" = "主題色";
+"Enable Reminders" ="啟動提醒";
+"Enable in Settings" = "在設定中啟用";
+
+// Day of Week
+"Monday" = "星期一";
+"Tuesday" = "星期二";
+"Wednesday" = "星期三";
+"Thursday" = "星期四";
+"Friday" = "星期五";
+"Saturday" = "星期六";
+"Sunday" = "星期日";
+"EveryDayFormat" = "每個%@";
+

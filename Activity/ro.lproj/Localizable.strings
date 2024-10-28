@@ -1,0 +1,121 @@
+/* 
+  Localizable.strings
+  Activity
+
+  Created by Dan Cojocaru on 2024-01-29.
+  
+*/
+
+
+// Home
+"Home" = "Acasă";
+"Welcome" = "Bun venit";
+"WelcomeWithName" = "Bun venit, %@";
+"Hint" = "Sfat";
+"Consider going to the Settings tab to customize the application, set your name or enable notifications" = "Poți naviga către tabul Setări pentru a personaliza aplicația, a-ți seta numele sau pentru pornirea notificărilor";
+"Today" = "Astăzi";
+
+// Project
+"Projects" = "Proiecte";
+"Start typing to search" = "Începe să scrii pentru a căuta";
+"Name" = "Nume";
+"Date" = "Dată";
+"Tags: " = "Taguri: ";
+"Add tag" = "Adaugă tag";
+"Choose Tags" = "Alege Taguri";
+"Project Name" = "Nume Proiect";
+"New Project" = "Proiect Nou";
+"Choose Project" = "Alege Proiect";
+"Cancel" = "Anulează";
+"Save" = "Salvează";
+"Move" = "Mută";
+"Edit" = "Editează";
+"A project with the same name already exists" = "Un proiect cu același nume există deja";
+"Task" = "Task";
+"New Task" = "Task Nou";
+"Edit Task" = "Editează Task";
+"Task Name" = "Nume Task";
+"Start Date" = "Dată de Pornire";
+"Repeat" = "Repetă";
+"Never" = "Niciodată";
+"Every Weekday" = "În zile lucrătoare";
+"Every Weekend Day" = "În weekend";
+"Every Day" = "În fiecare zi";
+"Priority" = "Prioritate";
+"Meh" = "Mică";
+"Maybe" = "Medie";
+"Must" = "Mare";
+"Time" = "Timp";
+"EveryDayFormat" = "În fiecare %@";
+"There are no projects." = "Nu există proiecte.";
+"Add new project" = "Adaugă proiect nou";
+"There are no tasks." = "Nu există task-uri.";
+"Add new task" = "Adaugă task nou";
+
+// Calendar
+"Calendar" = "Calendar";
+"Type to search..." = "Scrie pentru a căuta...";
+"Nothing match !!" = "Nimic găsit!";
+"No tasks for this day" = "Niciun task pentru această zi";
+"Do you want to restart or continue the tracking?" = "Dorești să repornești sau să continui măsurarea?";
+"Discard data and restart" = "Șterge datele și repornește";
+"Continue tracking" = "Continuă măsurarea";
+"Time: %@" = "Timp: %@";
+"Filter" = "Filtru";
+"No tag exists" = "Nu există taguri";
+"Choose tag" = "Alege un tag";
+
+// Stopwatch
+"Pause" = "Pauză";
+"Start" = "Start";
+"Finish" = "Terminare";
+"Did you complete the workout already?" = "Ai efectuat deja task-ul?";
+"Start Time" = "Timp Pornire";
+"End Time" = "Timp Terminare";
+"Add manually" = "Adaugă manual";
+
+// Summary
+"Summary" = "Sumar";
+"Training Summary 🏋️" = "Sumar Antrenament 🏋️";
+"Unknown" = "Necunoscut";
+"Day to view" = "Zi de vizualizat";
+"Month to view" = "Lună de vizualizat";
+"Select Timeframe" = "Alege Perioada";
+"Daily" = "Zilnic";
+"Monthly" = "Lunar";
+"All Time" = "Total";
+"Week to view" = "Săptămână de vizualizat";
+
+// Setting
+"Settings" = "Setări";
+"Personal Information" = "Informații Personale";
+"First Name" = "Prenume";
+"Last Name" = "Nume de Familie";
+"Email" = "Email";
+"Birthday" = "Zi de Naștere";
+"Visual Settings" = "Setări Vizuale";
+"Yellow" = "Galben";
+"Blue" = "Albastru";
+"Purple" = "Mov";
+"Green" = "Verde";
+"Notification Settings" = "Setări de Notificare";
+"Notification Permission Unknown" = "Permisiune de Notificare Necunoscută";
+"Font Size" = "Mărime Font";
+"Daily Reminder" = "Reamintire Zilnică";
+"Notification Time" = "Timp Notificare";
+"Notification Permission Denied" = "Permisiune de Notificare Respinsă";
+"FontSizeFormat" = "Mărime font: %d";
+"Accent Color" = "Culoare de accent";
+"Enable Reminders" ="Pornește Reamintirea";
+"Enable in Settings" = "Pornește în Setări";
+
+// Day of Week
+"Monday" = "Luni";
+"Tuesday" = "Marți";
+"Wednesday" = "Miercuri";
+"Thursday" = "Joi";
+"Friday" = "Vineri";
+"Saturday" = "Sâmbătă";
+"Sunday" = "Duminică";
+"EveryDayFormat" = "În fiecare %@";
+
